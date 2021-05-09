@@ -2,6 +2,6 @@
 
 ## Schematic 
 
-[]!(schem.jpg)
+![](schem.jpg)
 
 Source:https://www.eleccircuit.com/high-current-12v-30a25a20a15a-ham-radio-power-supply/
